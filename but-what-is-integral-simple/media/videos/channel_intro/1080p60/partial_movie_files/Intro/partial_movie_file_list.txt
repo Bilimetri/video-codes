@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/channel_intro/1080p60/partial_movie_files/Intro/3544663784_827939780_223132457.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/channel_intro/1080p60/partial_movie_files/Intro/260329756_2459188145_1518834769.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/channel_intro/1080p60/partial_movie_files/Intro/260329756_3960336173_1781915672.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/channel_intro/1080p60/partial_movie_files/Intro/260329756_2704686740_392742663.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/channel_intro/1080p60/partial_movie_files/Intro/260329756_3763248404_93089684.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/channel_intro/1080p60/partial_movie_files/Intro/260329756_807188262_210259938.mp4'

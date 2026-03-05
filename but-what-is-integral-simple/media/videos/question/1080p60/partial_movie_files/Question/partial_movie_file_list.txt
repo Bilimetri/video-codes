@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/3544663784_228883118_223132457.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_424383729_532965514.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_1839128356_139705550.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_3504010068_2988743890.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_2704686740_359276343.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_287134732_2415990301.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_2408024828_3308850298.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_2262847404_2613264823.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_1734327179_819380721.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_4149260713_1592781153.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/question/1080p60/partial_movie_files/Question/260329756_3201849554_3196764103.mp4'

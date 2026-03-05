@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/plot-area/1080p60/partial_movie_files/ValueToFormula/3544663784_3071074277_223132457.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/plot-area/1080p60/partial_movie_files/ValueToFormula/260329756_1307840397_2519708722.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/plot-area/1080p60/partial_movie_files/ValueToFormula/260329756_3254556797_2710685451.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/plot-area/1080p60/partial_movie_files/ValueToFormula/260329756_3737912838_533898860.mp4'
+file 'file:/home/cinar/Desktop/bilimetri-animations/but-what-is-integral-simple/media/videos/plot-area/1080p60/partial_movie_files/ValueToFormula/260329756_2408024828_4113497976.mp4'
