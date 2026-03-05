@@ -1,6 +1,6 @@
 from manim import *
 
-class RiemannRectsSum(Scene):
+class RiemannStyle(Scene):
     def construct(self):
 
         axes = Axes(
