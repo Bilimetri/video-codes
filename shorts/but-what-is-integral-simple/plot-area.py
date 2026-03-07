@@ -19,13 +19,13 @@ class PlotArea(Scene):
         labels = axes.get_axis_labels(x_label="x", y_label="y")
         graph = axes.plot(lambda x: 3, x_range=[0, 7], color=RED)
 
-        self.play(Create(axes))
-        self.play(Write(labels))
-        self.play(Create(graph), run_time=1)
+        self.play(Create(axes), run_time=0.5)
+        self.play(Write(labels), run_time=0.3)
+        self.play(Create(graph), run_time=0.5)
 
         area = axes.get_area(graph, x_range=[0, 7], color=RED, opacity=0.4)
         self.play(FadeIn(area))
-        self.wait()
+        self.wait(0.5)
 
         x_val_h = 0
         y_val_h = 3
@@ -50,8 +50,8 @@ class PlotArea(Scene):
         area_title = Text("Alan Hesabı", font_size=52)
         area_title.next_to(area_tex, DOWN, buff=0.5)
 
-        self.play(Write(area_title), run_time=1.5)
-        self.wait(5)
+        self.play(Write(area_title), run_time=1)
+        self.wait(1)
 
         self.play(FadeOut(*self.mobjects))
 
@@ -62,5 +62,5 @@ class PlotArea(Scene):
         ).move_to(ORIGIN)
 
         self.play(Write(question_text), run_time=1.5)
-        self.wait(3)
-        self.play(FadeOut(question_text), run_time=1)
+        self.wait(2)
+        self.play(FadeOut(question_text), run_time=0.5)

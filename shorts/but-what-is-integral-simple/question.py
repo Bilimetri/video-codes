@@ -28,9 +28,9 @@ class Question(Scene):
         graph = axes.plot(f, x_range=[0, 7], color=BLUE)
 
         # Draws axes and graph
-        self.play(Create(axes), Create(labels), run_time=2)
-        self.play(Create(graph), run_time=3)
-        self.wait(1)
+        self.play(Create(axes), Create(labels), run_time=0.5)
+        self.play(Create(graph), run_time=1)
+        self.wait(0.5)
 
         # --- Question text ---
         question = Text(
@@ -40,8 +40,8 @@ class Question(Scene):
             line_spacing=1.2
         ).to_edge(UP, buff=1.2)
 
-        self.play(FadeIn(question), run_time=1)
-        self.wait(1.5)
+        self.play(FadeIn(question), run_time=0.5)
+        self.wait(1)
 
         # --- Fill ---
         area = axes.get_area(
@@ -50,14 +50,14 @@ class Question(Scene):
             color=[TEAL, BLUE],
             opacity=0.5
         )
-        self.play(FadeIn(area), run_time=2)
-        self.wait(2)
+        self.play(FadeIn(area), run_time=1)
+        self.wait(1)
 
         # --- Put question mark ---
         question_mark = Text("?", font_size=96, color=YELLOW)
         question_mark.move_to(axes.c2p(3.5, 1.5))
         self.play(FadeIn(question_mark), run_time=0.8)
-        self.wait(3)
+        self.wait(1)
 
         # --- Clear the scene ---
         self.play(
