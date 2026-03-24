@@ -20,7 +20,7 @@ DORT_IDX = [d.index(4)  for d in DIZILER]   # 4'ün indexi (16+2)
 
 RENKLER = ["#F5A623", "#3BE8A0", "#FF6B9D", "#7EB8F7", "#C084FC"]
 BEYAZ   = "#F0EDE8"
-BG      = "#0D0D0D"
+BG      = "#08080C"
 
 BOX_W   = 1.75
 BOX_H   = 1.55
