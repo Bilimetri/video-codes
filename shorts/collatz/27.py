@@ -3,7 +3,7 @@ from manim import *
 config.pixel_width = 1080
 config.pixel_height = 1920
 config.frame_rate = 60
-config.background_color = "#0D0D0D"
+config.background_color = "#08080C"
 
 # 27 sayısının tam Collatz dizisi
 DIZI = [27,82,41,124,62,31,94,47,142,71,214,107,322,161,484,242,121,364,182,91,

@@ -5,7 +5,7 @@ from collections import deque
 config.pixel_width  = 1080
 config.pixel_height = 1920
 config.frame_rate   = 60
-config.background_color = "#050508"
+config.background_color = "#08080C"
 
 # ── Ağaç yapısı ──────────────────────────────────────────────────────
 def ebeveynler(n, max_val=999999):

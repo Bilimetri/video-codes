@@ -4,7 +4,7 @@ import math
 config.pixel_width  = 1080
 config.pixel_height = 1920
 config.frame_rate   = 60
-config.background_color = "#0D0D0D"
+config.background_color = "#08080C"
 
 def collatz(n):
     seq = [n]
